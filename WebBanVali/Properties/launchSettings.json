@@ -11,7 +11,7 @@
     "WebBanVali": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7242;http://localhost:5109",
+      "applicationUrl": "http://localhost:5109",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
